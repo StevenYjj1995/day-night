@@ -288,7 +288,6 @@ const string = `/** 你好，我叫叶健杰
 .stars .right {
   background: #EFE894;
   border-radius: 50%;
-  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .top {
@@ -308,6 +307,7 @@ const string = `/** 你好，我叫叶健杰
   left: 1530%;
   height: 8px;
   width: 8px;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .top::after {
@@ -318,6 +318,7 @@ const string = `/** 你好，我叫叶健杰
   left: 1530%;
   height: 6px;
   width: 6px;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .left {
@@ -327,6 +328,7 @@ const string = `/** 你好，我叫叶健杰
   height: 8px;
   width: 8px;
   box-shadow: 0 0 5px #EFE894;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .left::before {
@@ -337,6 +339,7 @@ const string = `/** 你好，我叫叶健杰
   left: 200%;
   height: 6px;
   width: 6px;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .left::after {
@@ -347,6 +350,7 @@ const string = `/** 你好，我叫叶健杰
   left: -140%;
   height: 6px;
   width: 6px;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .bottom {
@@ -366,6 +370,7 @@ const string = `/** 你好，我叫叶健杰
   width: 8px;
   bottom: -110%;
   right: 400%;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .bottom::after {
@@ -376,6 +381,7 @@ const string = `/** 你好，我叫叶健杰
   width: 6px;
   top: 300%;
   right: 700%;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 
 .stars .right {
@@ -384,6 +390,7 @@ const string = `/** 你好，我叫叶健杰
   right: 10%;
   height: 10px;
   width: 10px;
+  box-shadow: 0 0 5px 1px #EFE894;
 }
 /** 最后，给它们加点动画，让他们动起来吧
  **/
